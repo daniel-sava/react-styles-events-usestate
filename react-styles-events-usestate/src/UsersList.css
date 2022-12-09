@@ -1,0 +1,18 @@
+.UsersList .title {
+    color: royalblue;
+    font-weight: bold;
+}
+
+.UsersList .list.visible {
+    /* visibility: visible; */
+    display: block;
+}
+
+.UsersList .list.hidden {
+    /* visibility: hidden; */
+    display: none;
+}
+
+.UsersList .list .list-item {
+    font-weight: 18px;
+}
